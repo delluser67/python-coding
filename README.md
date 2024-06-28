@@ -1,2 +1,2 @@
 # python-coding
-I am learning cdoing in python 
+I am learning codoing in python 
